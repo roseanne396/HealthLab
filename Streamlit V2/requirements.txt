@@ -1,16 +1,13 @@
-# Core web app packages
+# Core web app
 streamlit>=1.36
 pandas
 requests
 beautifulsoup4
 python-dotenv
 
-# LangChain + OpenAI stack
+# LangChain + OpenAI
 langchain==0.2.11
 langchain-core==0.2.26
 langchain-openai==0.1.23
 openai>=1.43.0
 tiktoken
-
-# Optional but safe to include for stability
-regex
