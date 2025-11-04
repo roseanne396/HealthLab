@@ -1,10 +1,10 @@
 streamlit>=1.36
-pandas
+pandas>=2.3
+numpy>=2.1
 requests
 beautifulsoup4
 python-dotenv
 langchain==0.2.11
-langchain-core==0.2.26
 langchain-openai==0.1.23
 openai>=1.43.0
 tiktoken
